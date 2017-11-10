@@ -1,0 +1,5 @@
+Link: http://teampeach-x09092943665339.codeanyapp.com/phpmyadmin
+User: root@localhost
+Password: none set
+db: peach
+table : user
