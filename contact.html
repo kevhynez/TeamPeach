@@ -7,14 +7,11 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Team Peach Games</title>
+    <title>Peach Games</title>
 
     <!-- Bootstrap core CSS -->
     <link href="Website/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-		
-		<!-- Website custom css -->
-		<link href="style.css" rel="stylesheet">
-
+		<link rel="stylesheet" type="text/css" href="custom.css">
   </head>
 
   <body>
@@ -42,19 +39,40 @@
         </div>
       </div>
     </nav>
-    <!-- Page Content -->
-	<div class="container">
-		<div class="jumbotron">
-			<img src="Website/images/background.jpg" class="img-fluid" alt="Responsive image">     
-		</div>     
-	</div>
-
+		
+		<br> 
+		</br>
+		
+		<!-- Page content -->
+		<div class="container padding" id="contact">
+			<form role="form">
+				<div class="form-group">
+					<label for="email">Email:</label>
+					<input type="email" class="form-control" id="email" name="email" placeholder="example@example.com"/>
+				</div>
+				<div class="form-group">
+					<label for="name">Name:</label>
+					<input type="text" class="form-control" id="name" name="name" placeholder="Your name here"/>
+				</div>
+				<div class="form-group">
+					<label for="message">Message:</label>
+					<textarea class="form-control" name="message" id="message" placeholder="Your message here"></textarea>
+				</div>
+				<div class="form-group">
+					<input type="checkbox" /> Send me promotional content
+				</div>
+				<button type="submit" class="btn btn-default">Submit</button>
+			</form>
+		</div>
+  
+		<br> 
+		</br>
+	
     <!-- Footer -->
     <footer class="py-5 bg-dark">
       <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; TEAM PEACH 2017</p>
+        <p class="m-0 text-center text-white">Copyright &copy; PEACH GAME 2017</p>
       </div>
-      <!-- /.container -->
     </footer>
 
     <!-- Bootstrap core JavaScript -->
