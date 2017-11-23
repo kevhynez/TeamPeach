@@ -41,7 +41,7 @@
 					<li class="nav-item">
 						<a class="nav-link" href="login.html">Login</a>
 					</li>
-					<li class="nav-item">
+					<li class="nav-item active">
 						<a class="nav-link" href="register.html">Register</a>
 					</li>
 				</ul>
@@ -50,15 +50,33 @@
 	</nav>
 
 	<hr>
-
-	<!-- Page Content -->
+	
+	<!-- Page Content-->
 	<div class="container">
-		<div class="col-lg-6">
-			<img class="img-fluid rounded" src="http://placehold.it/700x450" alt="">
-		</div>
+	
+	
+	<!-- Registration form-->
+		<form id="register"  method="POST" action="registerProcessor.php" >
+      <div id="noName" style="display:none;"><h2>Please enter your name!</h2></div>
+      <input id="name" type="text" name="name" placeholder="Enter Name" maxlength="50" value="" />
+      <br>
+      <div id="badEmail" style="display:none;"><h2>Please enter a valid email address</h2></div>
+      <input id="email" type="text" name="email" placeholder="Enter email" maxlength="50" value="" />
+      <br>
+      <div id="badUname" style="display:none;"><h2>Please enter a username</h2></div>
+      <input id="username" type="text" name="username" placeholder="Enter Username" maxlength="50" value="" />
+      <br>
+      <div id="badPassword" style="display:none;"><h2>Password should have at least 1 number, one letter and between 6 and 8 characters!</h2></div>
+      <input id="password" type="password" name="password" placeholder="Enter password" maxlength="50" value="" />
+      <br>
+      <button id="submit1" type="submit" name="submit1" onclick="event.preventDefault();validateForm()";>Sign up</button>
+    </form>
+		
 	</div>
-	<!-- /.container -->
+	<!-- Container -->
+	
 	<hr>
+
 	<!-- Footer -->
 	<footer class="py-5 bg-dark">
 		<div class="container">
