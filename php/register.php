@@ -106,10 +106,10 @@
 						<a class="nav-link" href="../contact.html">Contact</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="php/login.php">Login</a>
+						<a class="nav-link" href="login.php">Login</a>
 					</li>
 					<li class="nav-item active">
-						<a class="nav-link" href="php/register.php">Register</a>
+						<a class="nav-link" href="register.php">Register</a>
 					</li>
 				</ul>
 			</div>
