@@ -82,10 +82,10 @@ if(!empty($_POST['username']) && !empty($_POST['password'])){
 						<a class="nav-link" href="index.php">Home</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="../about.html">About</a>
+						<a class="nav-link" href="about.php">About</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="../contact.html">Contact</a>
+						<a class="nav-link" href="contact.php">Contact</a>
 					</li>
 					<li class="nav-item actvive">
 						<a class="nav-link" href="login.php">Login</a>

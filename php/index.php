@@ -38,10 +38,10 @@ require 'config.php';
 						<a class="nav-link" href="index.php">Home</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="../about.html">About</a>
+						<a class="nav-link" href="about.php">About</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="../contact.html">Contact</a>
+						<a class="nav-link" href="contact.php">Contact</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="login.php">Login</a>
@@ -125,7 +125,7 @@ require 'config.php';
 						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
 					</div>
 					<div class="card-footer">
-						<a href="awakenedl1.html" class="btn btn-primary">Learn More</a>
+						<a href="awakenedl1.php" class="btn btn-primary">Learn More</a>
 					</div>
 				</div>
 			</div>
@@ -136,7 +136,7 @@ require 'config.php';
 						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ipsam eos, nam perspiciatis natus commodi similique totam consectetur praesentium molestiae atque exercitationem ut consequuntur, sed eveniet, magni nostrum sint fuga.</p>
 					</div>
 					<div class="card-footer">
-						<a href="awakenedl2.html" class="btn btn-primary">Learn More</a>
+						<a href="awakenedl2.php" class="btn btn-primary">Learn More</a>
 					</div>
 				</div>
 			</div>
@@ -147,7 +147,7 @@ require 'config.php';
 						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
 					</div>
 					<div class="card-footer">
-						<a href="awakenedl3.html" class="btn btn-primary">Learn More</a>
+						<a href="awakenedl3.php" class="btn btn-primary">Learn More</a>
 					</div>
 				</div>
 			</div>

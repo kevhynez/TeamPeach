@@ -1,3 +1,8 @@
+<?php
+session_start();
+require 'config.php';
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -11,10 +16,10 @@
 	<title>Peach Games</title>
 
 	<!-- Bootstrap core CSS -->
-	<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
 	<!-- Custom styles for this template -->
-	<link href="css/stylesheet.css" rel="stylesheet">
+	<link href="../css/stylesheet.css" rel="stylesheet">
 
 </head>
 
@@ -30,19 +35,19 @@
 			<div class="collapse navbar-collapse" id="navbarResponsive">
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item">
-						<a class="nav-link" href="php/index.php">Home</a>
+						<a class="nav-link" href="index.php">Home</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="about.html">About</a>
+						<a class="nav-link" href="about.php">About</a>
 					</li>
 					<li class="nav-item active">
-						<a class="nav-link" href="contact.html">Contact</a>
+						<a class="nav-link" href="contact.php">Contact</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="php/login.php">Login</a>
+						<a class="nav-link" href="login.php">Login</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="php/register.php">Register</a>
+						<a class="nav-link" href="register.php">Register</a>
 					</li>
 				</ul>
 			</div>
