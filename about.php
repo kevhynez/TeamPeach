@@ -16,10 +16,10 @@ require 'config.php';
 	<title>Peach Games</title>
 
 	<!-- Bootstrap core CSS -->
-	<link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
 	<!-- Custom styles for this template -->
-	<link href="../css/stylesheet.css" rel="stylesheet">
+	<link href="css/stylesheet.css" rel="stylesheet">
 
 </head>
 
