@@ -58,14 +58,21 @@ require 'config.php';
 
 	<!-- Page Content -->
 	<div class="container">
-		<div class="col-lg-6">
-			<img class="img-fluid rounded" src="http://placehold.it/700x450" alt="">
+		<div class="row">
+			<div class="col-lg-6">
+				<img class="img-fluid rounded" src="http://placehold.it/700x450" alt="">
+			</div>
+			<div class="col-lg-6">
+				<h2>AWAKENED Level 3</h2>
+				<p>The third level of a series from Peach Games.</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
+			</div>
 		</div>
 	</div>
 	<!-- /.container -->
 	<hr>
 	<!-- Footer -->
-	<footer class="py-5 bg-dark">
+	<footer class="py-5 bg-dark fixed-bottom">
 		<div class="container">
 			<p class="m-0 text-center text-white">Copyright &copy; PEACH GAMES 2017</p>
 		</div>

@@ -95,7 +95,7 @@ require 'config.php';
 					<img class="card-img-top" src="http://placehold.it/750x450" alt="">
 					<div class="card-body">
 						<h4 class="card-title">Jamie Joyce</h4>
-						<h6 class="card-subtitle mb-2 text-muted">Waster</h6>
+						<h6 class="card-subtitle mb-2 text-muted">Developer</h6>
 						<p class="card-text" id="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
 					</div>
 					<div class="card-footer">

@@ -96,24 +96,21 @@ require 'config.php';
 
 	<!-- Page Content -->
 	<div class="container">
- 
-    <?php if(isset($_SESSION['username'])): ?>
+ 		<h1 class="my-4">Welcome to Peach Games</h1>
     
+		<?php if(isset($_SESSION['username'])): ?>
     <p>You are successfully logged in!</p>
-    
     <a href="logout.php">Logout?</a>
-    
     <?php else: ?>
-		 <h1>
-      Please login or register below!
-    </h1>
+		<h1>Please login or register below!</h1>
     <p>
-      <a href="register.php">Register here!</a>
-      | <a href="login.php">Login here!</a>
+      <a href="login.php" class="btn btn-primary">Login here!</a>
+			<a href="register.php" class="btn btn-primary">Register here!</a>
     </p>
     <?php endif; ?>
-		<h1 class="my-4">Welcome to Peach Games</h1>
-
+		
+		<hr>
+		
 		<!-- Game Selection -->
 		<div class="row">
 			<div class="col-lg-4 mb-4">
@@ -148,19 +145,6 @@ require 'config.php';
 						<a href="awakenedl3.php" class="btn btn-primary">Learn More</a>
 					</div>
 				</div>
-			</div>
-		</div>
-		<!-- /.row -->
-
-		<!-- Features Section -->
-		<div class="row">
-			<div class="col-lg-6">
-				<h2>Peach Games</h2>
-				<p>The Modern Business template by Start Bootstrap includes:</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
-			</div>
-			<div class="col-lg-6">
-				<img class="img-fluid rounded" src="http://placehold.it/700x450" alt="">
 			</div>
 		</div>
 		<!-- /.row -->

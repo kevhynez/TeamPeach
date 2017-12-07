@@ -102,10 +102,10 @@ if(!empty($_POST['username']) && !empty($_POST['password'])){
 
 	<!-- Page Content -->
 	
-	<div class="container">
-		<?php if(!empty($message)){ ?>
-    	<span ><?php echo $message; ?></span>
-    <?php } ?>
+<div class="container">
+	<?php if(!empty($message)){ ?>
+		<span ><?php echo $message; ?></span>
+	<?php } ?>
 		
 <!--Login form-->
 		
@@ -126,16 +126,16 @@ if(!empty($_POST['username']) && !empty($_POST['password'])){
 				<button type="login" name="login">Log In</button>
 			</form>
 		`</div>
-		</div>
-		
-		
 	</div>
+		
+		
+</div>
 	<!-- Container -->
 	
 	<hr>
 
 	<!-- Footer -->
-	<footer class="py-5 bg-dark">
+	<footer class="py-5 bg-dark fixed-bottom">
 		<div class="container">
 			<p class="m-0 text-center text-white">Copyright &copy; PEACH GAMES 2017</p>
 		</div>
