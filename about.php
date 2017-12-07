@@ -86,7 +86,7 @@ require 'config.php';
 						<p class="card-text" id="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
 					</div>
 					<div class="card-footer">
-						<a href="https://www.linkedin.com/in/anthony-moore-394604108">LinkedIn Profile</a>
+						<a href="https://www.linkedin.com/in/anthony-moore-394604108" class="btn btn-primary">LinkedIn Profile</a>
 					</div>
 				</div>
 			</div>
@@ -99,7 +99,7 @@ require 'config.php';
 						<p class="card-text" id="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
 					</div>
 					<div class="card-footer">
-						<a href="https://www.linkedin.com/in/jamie-joyce-58122290">LinkedIn Profile</a>
+						<a href="https://www.linkedin.com/in/jamie-joyce-58122290" class="btn btn-primary">LinkedIn Profile</a>
 					</div>
 				</div>
 			</div>
@@ -112,7 +112,7 @@ require 'config.php';
 						<p class="card-text" id="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
 					</div>
 					<div class="card-footer">
-						<a href="https://www.linkedin.com/in/kthynes">LinkedIn Profile</a>
+						<a href="https://www.linkedin.com/in/kthynes" class="btn btn-primary">LinkedIn Profile</a>
 					</div>
 				</div>
 			</div>
@@ -125,7 +125,7 @@ require 'config.php';
 						<p class="card-text" id="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
 					</div>
 					<div class="card-footer">
-						<a href="https://www.linkedin.com/in/michaeldunne3">LinkedIn Profile</a>
+						<a href="https://www.linkedin.com/in/michaeldunne3" class="btn btn-primary">LinkedIn Profile</a>
 					</div>
 				</div>
 			</div>

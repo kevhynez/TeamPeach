@@ -19,7 +19,7 @@ require 'config.php';
 	<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
 	<!-- Custom styles for this template -->
-	<link href="wcss/stylesheet.css" rel="stylesheet">
+	<link href="css/stylesheet.css" rel="stylesheet">
 
 </head>
 

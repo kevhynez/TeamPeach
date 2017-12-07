@@ -101,23 +101,34 @@ if(!empty($_POST['username']) && !empty($_POST['password'])){
 	<hr>
 
 	<!-- Page Content -->
+	
 	<div class="container">
-	<?php if(!empty($message)){ ?>
-    <span ><?php echo $message; ?></span>
-    <?php } ?>	
+		<?php if(!empty($message)){ ?>
+    	<span ><?php echo $message; ?></span>
+    <?php } ?>
+		
 <!--Login form-->
-<form method="post" action="login.php">
-	<div id="badUname" style="display:none;">
-		<h2>Please enter a username</h2>
-	</div>
-	<br><input id="username" type="text" name="username" placeholder="Enter Username" maxlength="50" value="" />
-	<div id="badPassword" style="display:none;">
-		<h2>Password should have at least 1 number, one letter and between 6 and 8 characters!</h2>
-	</div>
-	<br><input id="password" type="password" name="password" placeholder="Enter password" maxlength="50" value="" />
-	<br><button type="login" name="login">Log In</button>
-</form>
-
+		
+	<div class="row">	
+		<div class="col-lg-8 mb-4">
+			<form method="post" action="login.php">
+				<div id="badUname" style="display:none;">
+					<h2>Please enter a username</h2>
+				</div>
+				<br>
+				<input id="username" type="text" name="username" placeholder="Enter Username" maxlength="50" value="" />
+				<div id="badPassword" style="display:none;">
+					<h2>Password should have at least 1 number, one letter and between 6 and 8 characters!</h2>
+				</div>
+				<br>
+				<input id="password" type="password" name="password" placeholder="Enter password" maxlength="50" value="" />
+				<br>
+				<button type="login" name="login">Log In</button>
+			</form>
+		`</div>
+		</div>
+		
+		
 	</div>
 	<!-- Container -->
 	
