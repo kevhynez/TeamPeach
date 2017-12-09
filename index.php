@@ -117,7 +117,7 @@ require 'config.php';
 				<div class="card h-100">
 					<h4 class="card-header">AWAKENED</h4>
 					<div class="card-body">
-						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+						<p class="card-text" id="para">Play the first part of the highly anticipated game series AWAKENED.</p>
 					</div>
 					<div class="card-footer">
 						<a href="awakenedl1.php" class="btn btn-primary">Learn More</a>
@@ -126,9 +126,9 @@ require 'config.php';
 			</div>
 			<div class="col-lg-4 mb-4">
 				<div class="card h-100">
-					<h4 class="card-header">AWAKENED L2</h4>
+					<h4 class="card-header">AWAKENED PART 2</h4>
 					<div class="card-body">
-						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ipsam eos, nam perspiciatis natus commodi similique totam consectetur praesentium molestiae atque exercitationem ut consequuntur, sed eveniet, magni nostrum sint fuga.</p>
+						<p class="card-text" id="para">Continue the amazing story here AWAKENED PART 2 COMING SOON!</p>
 					</div>
 					<div class="card-footer">
 						<a href="awakenedl2.php" class="btn btn-primary">Learn More</a>
@@ -137,9 +137,9 @@ require 'config.php';
 			</div>
 			<div class="col-lg-4 mb-4">
 				<div class="card h-100">
-					<h4 class="card-header">AWAKENED L3</h4>
+					<h4 class="card-header">AWAKENED PART 3</h4>
 					<div class="card-body">
-						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+						<p class="card-text" id="para">The final part of the classic story AWAKENED. PART 3 COMING SOON!</p>
 					</div>
 					<div class="card-footer">
 						<a href="awakenedl3.php" class="btn btn-primary">Learn More</a>

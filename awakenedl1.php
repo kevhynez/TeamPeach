@@ -64,7 +64,7 @@ require 'config.php';
 			</div>
 			<div class="col-lg-6">
 				<h2>AWAKENED Level 1</h2>
-				<p>The first level of a series from Peach Games.</p>
+				<p>The first part of a series called AWAKENED from Peach Games.</p>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
 			</div>
 		</div>
