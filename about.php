@@ -61,14 +61,17 @@ require 'config.php';
 
 		<!-- Intro Content -->
 		<div class="row">
-			<div class="col-lg-6">
-				<img class="img-fluid rounded mb-4" src="http://placehold.it/750x450" alt="">
+			<div class="col-lg-4">
+				<h2>Peach Games</h2>
+				<p>Peach Games is an independant game developing company, created by four students studying computing sience at the National College of Ireland in Dublin.</p>
 			</div>
-			<div class="col-lg-6">
-				<h2>About Modern Business</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe, magni, aperiam vitae illum voluptatum aut sequi impedit non velit ab ea pariatur sint quidem corporis eveniet. Odit, temporibus reprehenderit dolorum!</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis?</p>
+			<div class="col-lg-4">
+				<h2>AWAKENED</h2>
+				<p>AWAKENED was created as part of our third year project and is our first game created as a team, with plans to turn this game into a series of games.</p>
+			</div>
+			<div class="col-lg-4">
+				<h2>Future Plans</h2>
+				<p>We plan to turn AWAKENED into a series of games that will display in-game stats to all players. We hope to also expand by hosting other games created by independant game developers.</p>
 			</div>
 		</div>
 		<!-- /.row -->
@@ -79,11 +82,11 @@ require 'config.php';
 		<div class="row">
 			<div class="col-lg-3 mb-3">
 				<div class="card h-100 text-center">
-					<img class="card-img-top" src="http://placehold.it/750x450" alt="">
+					<img class="card-img-top" src="images/anthony.png" alt="">
 					<div class="card-body">
 						<h4 class="card-title">Anthony Moore</h4>
 						<h6 class="card-subtitle mb-2 text-muted">Team Leader</h6>
-						<p class="card-text" id="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+						<p class="card-text" id="para">Third year computing student at the National College of Ireland and team leader of Peach Games.</p>
 					</div>
 					<div class="card-footer">
 						<a href="https://www.linkedin.com/in/anthony-moore-394604108" class="btn btn-primary">LinkedIn Profile</a>
@@ -92,11 +95,11 @@ require 'config.php';
 			</div>
 			<div class="col-lg-3 mb-3">
 				<div class="card h-100 text-center">
-					<img class="card-img-top" src="http://placehold.it/750x450" alt="">
+					<img class="card-img-top" src="images/jamie.jpg" alt="">
 					<div class="card-body">
 						<h4 class="card-title">Jamie Joyce</h4>
 						<h6 class="card-subtitle mb-2 text-muted">Developer</h6>
-						<p class="card-text" id="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+						<p class="card-text" id="para">Third year computing student at the National College of Ireland and team leader of Peach Games.</p>
 					</div>
 					<div class="card-footer">
 						<a href="https://www.linkedin.com/in/jamie-joyce-58122290" class="btn btn-primary">LinkedIn Profile</a>
@@ -105,11 +108,11 @@ require 'config.php';
 			</div>
 			<div class="col-lg-3 mb-3">
 				<div class="card h-100 text-center">
-					<img class="card-img-top" src="http://placehold.it/750x450" alt="">
+					<img class="card-img-top" src="images/kevin.jpg" alt="">
 					<div class="card-body">
 						<h4 class="card-title">Kevin Hynes</h4>
 						<h6 class="card-subtitle mb-2 text-muted">Developer</h6>
-						<p class="card-text" id="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+						<p class="card-text" id="para">Third year computing student at the National College of Ireland and team leader of Peach Games.</p>
 					</div>
 					<div class="card-footer">
 						<a href="https://www.linkedin.com/in/kthynes" class="btn btn-primary">LinkedIn Profile</a>
@@ -118,11 +121,11 @@ require 'config.php';
 			</div>
 			<div class="col-lg-3 mb-3">
 				<div class="card h-100 text-center">
-					<img class="card-img-top" src="http://placehold.it/750x450" alt="">
+					<img class="card-img-top" src="images/mick.jpg" alt="">
 					<div class="card-body">
 						<h4 class="card-title">Michael Dunne</h4>
 						<h6 class="card-subtitle mb-2 text-muted">Developer</h6>
-						<p class="card-text" id="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+						<p class="card-text" id="para">Third year computing student at the National College of Ireland and team leader of Peach Games.</p>
 					</div>
 					<div class="card-footer">
 						<a href="https://www.linkedin.com/in/michaeldunne3" class="btn btn-primary">LinkedIn Profile</a>

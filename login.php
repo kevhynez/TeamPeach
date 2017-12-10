@@ -121,7 +121,7 @@ if(!empty($_POST['username']) && !empty($_POST['password'])){
 					<h2>Password should have at least 1 number, one letter and between 6 and 8 characters!</h2>
 				</div>
 				<br>
-				<input id="password" type="password" name="password" placeholder="Enter password" maxlength="50" value="" />
+				<input id="password" type="password" name="password" placeholder="Enter Password" maxlength="50" value="" />
 				<br>
 				<button type="login" name="login">Log In</button>
 			</form>
