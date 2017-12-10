@@ -63,9 +63,9 @@ require 'config.php';
 				<img class="img-fluid rounded" src="http://placehold.it/700x450" alt="">
 			</div>
 			<div class="col-lg-6">
-				<h2>AWAKENED Level 1</h2>
+				<h2>AWAKENED</h2>
 				<p>The first part of a series called AWAKENED from Peach Games.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
+				<p>Tells the amazing story of a lone man in a post-apocalyptic would with no idea what happened. All he can remember is is his beautiful wife, but she is no where to be seen. Follow the incredable journey a loving husband will go through to find his wife after he wakes.</p>
 			</div>
 		</div>
 	</div>	
