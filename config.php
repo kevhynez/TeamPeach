@@ -1,8 +1,8 @@
 <?php
 
-$server = 'localhost';
-$username = 'root';
-$password = '';
+$server = 'den1.mysql5.gear.host';
+$username = 'peach';
+$password = 'Ug8pv7??tQOB';
 $database = 'peach';
 
 
